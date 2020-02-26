@@ -9,6 +9,7 @@ node_js:
    before_install:
     install:
    - npm update
+   
    script:
    - npm test
 
